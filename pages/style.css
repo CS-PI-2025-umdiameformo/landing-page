@@ -86,3 +86,12 @@ footer {
 footer p {
     margin: 0;
 }
+
+.faq{
+    margin: 20px 0;
+    padding: 20px;
+    background-color: var(--cor-branco);
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
