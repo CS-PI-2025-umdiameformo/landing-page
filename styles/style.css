@@ -100,3 +100,22 @@ input {
     border: none;
     font-size: 15px;
 }
+
+.container-planos {
+    width: 200px;
+    height: 500px;
+    background-color: rgba(58, 58, 65, 0.726);
+    border: 3px solid rgb(20, 20, 20);
+    padding: 10px;
+    margin: 15px;
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-between;
+    align-items: center;
+    float: right;
+}
+
+.txt-planos {
+    font-size: 15px;
+    font-family: poppinsmedium;
+}
